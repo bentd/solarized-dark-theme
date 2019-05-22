@@ -10,7 +10,7 @@
   --sn-stylekit-font-size-h1: 1.3rem;
   --sn-stylekit-neutral-color: #989898;
   --sn-stylekit-neutral-contrast-color: white;
-  --sn-stylekit-info-color: #e1d7b7;
+  --sn-stylekit-info-color: #F6A200;
   --sn-stylekit-info-contrast-color: white;
   --sn-stylekit-success-color: #2B9612;
   --sn-stylekit-success-contrast-color: white;
@@ -20,11 +20,11 @@
   --sn-stylekit-danger-contrast-color: white;
   --sn-stylekit-shadow-color: #C8C8C8;
   --sn-stylekit-background-color: #eee8d5;
-  --sn-stylekit-border-color: #e3e3e3;
+  --sn-stylekit-border-color: #917d3b;
   --sn-stylekit-foreground-color: black;
   --sn-stylekit-contrast-background-color: #f0ebdb;
   --sn-stylekit-contrast-foreground-color: #2e2e2e;
-  --sn-stylekit-contrast-border-color: #e3e3e3;
+  --sn-stylekit-contrast-border-color: #917d3b;
   --sn-stylekit-secondary-background-color: #F6F6F6;
   --sn-stylekit-secondary-foreground-color: #2e2e2e;
   --sn-stylekit-secondary-border-color: #e3e3e3;
